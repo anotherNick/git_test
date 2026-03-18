@@ -1,0 +1,1 @@
+Some new lines in hello_world.txt
